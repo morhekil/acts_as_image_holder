@@ -1,4 +1,3 @@
-require 'RMagick'
 #
 # This class does the process of putting watermarks
 # on images

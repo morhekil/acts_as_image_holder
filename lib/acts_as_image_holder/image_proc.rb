@@ -1,4 +1,3 @@
-require 'RMagick'
 #
 # This class handles the images proccessing
 #
